@@ -1,2 +1,2 @@
 
-git push <HelloWorld.md> <master>
+git ini
