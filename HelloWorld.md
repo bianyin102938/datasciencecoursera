@@ -1,2 +1,2 @@
 
-git push <HelloWorld.md> <datasciencecoursera/HelloWorld.md>
+git push <HelloWorld.md> <master>
