@@ -1,2 +1,1 @@
-
-git ini
+This is a markdown file
